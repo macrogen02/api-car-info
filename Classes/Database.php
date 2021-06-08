@@ -2,10 +2,10 @@
 
 class Database {
 	//Database connection
-	private $db_host = 'localhost';
-    private $db_name = 'api';
-    private $db_username = 'postgres';
-    private $db_password = 'masterkey02';
+	private $db_host = 'ec2-34-230-115-172.compute-1.amazonaws.com';
+    private $db_name = 'dav2p2geob8l1j';
+    private $db_username = 'ehcnaytlesqfjd';
+    private $db_password = '66fb1046913245277f8e203fbd6b1f9739bcc6f9b18d92bfab461be52874c2ad';
     
     public function dbConnection(){
         
