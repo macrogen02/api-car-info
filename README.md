@@ -8,7 +8,7 @@ CRUD API application
 3. [Installation](#installation)
 ### General Info
 ***
-See this link for unit testing [UNITTESTING](https://www.php.net/)
+See this link for unit testing [UNITTESTING](https://github.com/macrogen02/api-car-info/blob/main/UNIT_TESTING.docx)
 
 ## Technologies
 ***
